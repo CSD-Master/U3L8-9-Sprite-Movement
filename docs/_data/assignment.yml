@@ -4,8 +4,8 @@
 git-curr-branch:
 git-prev-branch: 
 # Link(s) to the external lesson(s) (e.g., a lesson on Code.org or TestOut).
-lesson1:
-lesson2:
+lesson1: https://studio.code.org/s/csd3-2019/stage/8/puzzle/1
+lesson2: https://studio.code.org/s/csd3-2019/stage/9/puzzle/1
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
 # below the tabs
 outcome:
